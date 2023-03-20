@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437558731311",
+    "project_id": "my-storage-2d2c7",
+    "storage_bucket": "my-storage-2d2c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437558731311:android:0d044329ebd495cd765cda",
+        "android_client_info": {
+          "package_name": "app.ham.abc.storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437558731311-cnrgf2c9l1hgdlkp6ri1th2daudi82fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi1Myjf_PImdkbFtfxHr2xKkcXEUL7X5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437558731311-cnrgf2c9l1hgdlkp6ri1th2daudi82fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
